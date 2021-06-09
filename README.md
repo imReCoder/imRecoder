@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imRecoder
-- 👀 I’m interested in Web development, React, App Development
+- 👀 I’m interested in Web development, React App, Ionic Development and Node.js
 - 🌱 I’m currently studying Computer Science 
 -
 
