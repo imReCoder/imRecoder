@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imRecoder
-- 👀 I’m interested in Web development, React App, Ionic Development and Node.js
-- 🌱 I’m currently studying Computer Science 
+- 👀 I’m interested in Web development, React App,Flutter App, Angular App, Ionic Development and Node.js
+- 🌱 I’m currently studying Computer Science 6th Semester
 -
 
 <!---
